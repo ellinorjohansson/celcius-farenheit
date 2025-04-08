@@ -1,3 +1,6 @@
+> [!NOTE]  
+> Created this memory just for fun as a side project in my free time, initially locally, and later connected it to GitHub.
+
 # Fahrenheit to Celsius Converter
 
 A simple temperature converter built with TypeScript and Vite. The current version allows users to input a temperature in Fahrenheit and instantly see the equivalent in Celsius.
