@@ -1,0 +1,25 @@
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.calculation {
+  margin: 10px;
+  input {
+    padding: 7px;
+    border-radius: 10px;
+  }
+  button {
+    margin: 10px;
+    padding: 7px;
+    border-radius: 10px;
+  }
+}

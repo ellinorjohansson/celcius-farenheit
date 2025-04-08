@@ -1,0 +1,6 @@
+Gör en function som returnerar svaret av vad farenheit till celcius blir
+- Functionen tar in farenheit
+
+Gör HTML h1 tagg, input fält och button.
+
+När man skrivit in en siffra i input färltet och trycker på button så visas uträkningen
