@@ -1,5 +1,5 @@
 > [!NOTE]  
-> Created this memory just for fun as a side project in my free time, initially locally, and later connected it to GitHub.
+> Created this project just for fun as a side project in my free time, initially locally, and later connected it to GitHub.
 
 # Fahrenheit to Celsius Converter
 
